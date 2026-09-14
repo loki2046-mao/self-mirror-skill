@@ -11,6 +11,10 @@ description: >
 
 # Self Mirror / 自我画像生成器
 
+> **署名与来源**：本 Skill 的原始作者与框架设计者是 **zachbeta**（GitHub [@zachbeta](https://github.com/zachbeta)），核心的八框架方法论全部来自他的原作。
+> 赛博小熊猫 Loki 在使用中补充了「女性作家镜像」（张爱玲 / 伍尔夫 / 辛波斯卡）等少量修改。
+> 如果你 fork 或转载，请保留这行署名。
+
 ## 定位
 
 帮 AI agent 更了解用户，不是给用户做一次性人格测试。
